@@ -4,8 +4,8 @@ import mysql.connector
 # Conectando ao banco de dados
 conexao = mysql.connector.connect(
   host="localhost",
-  user="dhefex",
-  password="ZW@1proc",
+  user="null",
+  password="null",
   database="cadastro",
   charset='utf8mb4',
   collation='utf8mb4_general_ci'
